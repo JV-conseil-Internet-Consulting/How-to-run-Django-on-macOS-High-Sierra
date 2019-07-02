@@ -50,5 +50,6 @@ cd ~/virtualenv/rioanalytics
 python3 ~/virtualenv/rioanalytics/manage.py dumpdata > ~/virtualenv/rioanalytics/datadump.json
 ```
 
-###### [Mastering GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
-###### [Markdown Tutorial](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md)
+###### References:
+- [Mastering GitHub Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Markdown Tutorial](https://github.com/luong-komorebi/Markdown-Tutorial/blob/master/README_fr.md)
