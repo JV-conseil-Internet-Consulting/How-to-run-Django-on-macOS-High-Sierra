@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
+[![Django](https://img.shields.io/badge/Django-2.2.3-green.svg)](https://www.djangoproject.com/weblog/2019/jul/01/security-releases/)
+
 # How To Install Django In Mac
 src: https://appdividend.com/2018/03/28/how-to-install-django-in-mac/#Step_1_Install_Python_on_Mac
 
