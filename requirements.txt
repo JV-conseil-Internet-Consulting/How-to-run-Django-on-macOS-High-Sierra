@@ -1,0 +1,12 @@
+#
+# Requirements
+# src: https://gist.github.com/Siltaar/9441a525d3a580311035fa2f3f431baa
+# 
+# In Terminal enter:
+# cd ~/virtualenv
+# sudo pip3 install -r ~/virtualenv/requirements.txt
+#
+Django == 2.2.*
+nltk
+django-crispy-forms
+# mysqlclient
