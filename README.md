@@ -1,8 +1,10 @@
 [![Django](https://img.shields.io/badge/Django-2.2.3-green.svg)](https://www.djangoproject.com/weblog/2019/jul/01/security-releases/)
 [![Python 3.7.3](https://img.shields.io/badge/python-3.7.3-green.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
+[![macOS High Sierra](https://img.shields.io/badge/macOS-High%20Sierra-yellow.svg)](https://support.apple.com/fr-fr/HT208969)
+[![License BSD 3-Clause](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
+[![Follow JV conseil – Internet Consulting on Twitter](https://img.shields.io/twitter/follow/JVconseil.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=JVconseil)
 
-# How To Install Django In Mac
+# How To Install Django on macOS High Sierra
 src: https://appdividend.com/2018/03/28/how-to-install-django-in-mac/#Step_1_Install_Python_on_Mac
 
 
